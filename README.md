@@ -85,8 +85,11 @@ CLTV = Avg. Order Value × Purchase Frequency × Customer Lifespan
 
 ``` 
 ## 👨‍💻 Author
+
 Omar  Mazhar
+
 Junior Data Analyst | Data Enthusiast | Problem Solver
 
 🔗 LinkedIn Profile
+
 https://www.linkedin.com/in/omarmazhar-bi/
