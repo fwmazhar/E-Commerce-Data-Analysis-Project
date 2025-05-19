@@ -7,6 +7,21 @@ This project simulates a real-world data analytics scenario in an e-commerce con
 The goal is to derive actionable insights for decision-makers from a custom-built dataset of customer, product, and order information.
 
 ---
+## 📁 Project Structure
+
+ecommerce-data-analysis/
+├── data/
+│   ├── customers.csv
+│   ├── products.csv
+│   └── orders.csv
+├── sql/
+│   └── sql_cleaning.sql
+├── dashboard/
+│   └── ecommerce_dashboard.pbix
+├── visuals/
+│   └── dashboard_screenshot.png
+├── README.md
+
 
 ## 🔧 Tools & Technologies Used
 
