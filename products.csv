@@ -1,0 +1,31 @@
+product_id,category,product_name,cost
+PROD000001,Electronics,Wireless Earbuds,60.25
+PROD000002,Electronics,Smartwatch,150.5
+PROD000003,Electronics,Bluetooth Speaker,80.75
+PROD000004,Electronics,Laptop Stand,25.25
+PROD000005,Electronics,Portable Charger,30.25
+PROD000006,Clothing,Men's T-Shirt,15.5
+PROD000007,Clothing,Women's Hoodie,35.5
+PROD000008,Clothing,Running Shorts,20.75
+PROD000009,Clothing,Denim Jacket,70.75
+PROD000010,Clothing,Casual Sneakers,55.75
+PROD000011,Home & Kitchen,Non-stick Frying Pan,25.25
+PROD000012,Home & Kitchen,Electric Kettle,40.25
+PROD000013,Home & Kitchen,Vacuum Cleaner,150.75
+PROD000014,Home & Kitchen,Set of Towels,50.5
+PROD000015,Home & Kitchen,Air Purifier,200.5
+PROD000016,Books,Data Science Handbook,45.25
+PROD000017,Books,Intro to Python,30.75
+PROD000018,Books,Business Strategy 101,35.5
+PROD000019,Books,Fiction Bestseller,15.5
+PROD000020,Books,Graphic Novel,20.25
+PROD000021,Sports & Outdoors,Yoga Mat,25.25
+PROD000022,Sports & Outdoors,Resistance Bands,15.75
+PROD000023,Sports & Outdoors,Dumbbell Set,75.75
+PROD000024,Sports & Outdoors,Hiking Backpack,120.5
+PROD000025,Sports & Outdoors,Water Bottle,20.25
+PROD000026,Beauty,Face Moisturizer,25.5
+PROD000027,Beauty,Lip Balm,10.25
+PROD000028,Beauty,Hair Serum,45.75
+PROD000029,Beauty,Nail Polish Set,30.25
+PROD000030,Beauty,Facial Cleanser,35.5
