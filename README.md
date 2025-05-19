@@ -83,7 +83,7 @@ A metric was proposed to estimate long-term customer value:
 ```text
 CLTV = Avg. Order Value × Purchase Frequency × Customer Lifespan
 
-
+``` 
 ## 👨‍💻 Author
 Omar  Mazhar
 Junior Data Analyst | Data Enthusiast | Problem Solver
