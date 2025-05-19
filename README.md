@@ -1,6 +1,6 @@
 # 📦 E-Commerce Data Analysis Project
 
-**Junior Data Analyst Technical Assignment – May 2025**  
+**May 2025**  
 **By:** Omar Ahmed Mazhar
 
 ---
