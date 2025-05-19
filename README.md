@@ -1,10 +1,5 @@
 # 📦 E-Commerce Data Analysis Project
 
-**May 2025**  
-**By:** Omar Ahmed Mazhar
-
----
-
 ## 🧠 Project Overview
 
 This project simulates a real-world data analytics scenario in an e-commerce context. It walks through the full data lifecycle—from **data generation** using Python, **data cleaning** with SQL, to **exploratory data analysis (EDA)** and **interactive dashboarding using Microsoft Power BI**.
