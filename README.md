@@ -65,6 +65,8 @@ The cleaned data was analyzed using Power BI, focusing on:
 
 ## 📈 Dashboard Highlights
 
+![Dashboard](https://github.com/user-attachments/assets/402860de-9bd8-4e8a-84d1-383df8c552e2)
+
 Key dashboard metrics:
 
 - 💵 **Total Revenue**: $763,000  
